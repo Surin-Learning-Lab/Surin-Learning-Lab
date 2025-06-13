@@ -66,8 +66,8 @@ This profile demonstrates:
 
 ## 🤝 Let’s Connect
 
-📫 Email: [SurinLearningLab@gmail.com](mailto:SurinLearningLab@gmail.com)  
-🌐 Site: [surinlearninglab.com](https://surinlearninglab.com)
+📫 Email: [surin-sandbox](mailto:44airdiver@gmail.com)  
+🌐 Site: [surin-sandbox.onrender.com](https://surin-sandbox.onrender.com/)
 
 Whether you’re an educator looking for classroom-ready content, or an employer seeking a developer who builds with purpose—this is where education meets execution.
 
