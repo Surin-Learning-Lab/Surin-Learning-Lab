@@ -26,7 +26,7 @@ To bridge the gap between theory and practice by creating accessible, real-world
 
 ## 📂 Featured Repositories
 
-🌐 Site: (surin-sandbox.onrender.com)
+🌐 Site: (https://surin-sandbox.onrender.com/)
 
 - [`ESP8266-WiFi-message-display-system`](https://github.com/Surin-Learning-Lab/ESP8266-WiFi-message-display-system)  
   NodeMCU-powered WiFi message board using MAX7219 displays.
