@@ -26,8 +26,7 @@ To bridge the gap between theory and practice by creating accessible, real-world
 
 ## 📂 Featured Repositories
 
-- [`Surin_SandBox_Self_Guided`](https://github.com/Surin-Learning-Lab/Surin_SandBox_Self_Guided)  
-  A multi-language, browser-based learning platform for teaching electronics and programming fundamentals.
+
 
 - [`ESP8266-WiFi-message-display-system`](https://github.com/Surin-Learning-Lab/ESP8266-WiFi-message-display-system)  
   NodeMCU-powered WiFi message board using MAX7219 displays.
